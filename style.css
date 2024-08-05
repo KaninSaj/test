@@ -1,0 +1,31 @@
+body {
+    background: #ffa7a7;
+}
+h1 {
+    text-align: center;
+}
+.container  {
+    padding: 26px;
+    text-align: center;
+    background-color:   #ff8888;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+
+}
+.container input[type=number] {
+ padding: 10px;
+ border:0px ;
+ border-radius: 8px;
+}
+.container input[type=button] {
+    padding: 8px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: #ff5c5c;
+}
+.container input[type=button]:hover {
+    background-color: #ff4949;
+    color: wheat;
+}
